@@ -25,6 +25,10 @@ An advanced Android/Jetpack Compose library implementing an **Infinite Magnetic 
 
 The bundled demo app showcases three carousel modes with a live settings panel:
 
+| Carousel | Settings panel |
+|----------|---------------|
+| ![Carousel demo](img/img.png) | ![Settings panel](img/img_1.png) |
+
 | Mode | Description |
 |------|-------------|
 | **Line** | Straight horizontal arrangement |
